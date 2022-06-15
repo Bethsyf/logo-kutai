@@ -1,0 +1,11 @@
+body{
+    background: rgb(250, 250, 250);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.logo{
+    color:rgb(30, 116, 138)
+}
