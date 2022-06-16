@@ -14,16 +14,16 @@ body {
     font-size: 70px;
     color: rgb(30, 116, 138);
     font-family: 'Montserrat Alternates', sans-serif;
-    margin-top: -60px;
+    margin-top: -70px;
 }
 
 .esfera {
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 40px;
     background-color: rgb(184, 70, 5);
     border-radius: 100px;
     margin-left: -100px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 .part1 {
@@ -41,15 +41,13 @@ body {
     height: 40px;
     background-color: rgb(30, 116, 138);
     transform: rotate(45deg);
-    border-radius: 150px 150px 0px 0px;
+    border-radius: 20px 20px 0px 0px;
     margin-left: -45px;
     margin-top: -10px;
 }
 
 .part3 {
-    position: relative;
-    width: 0; 
-    height: 0; 
+    position: relative;    
     width: 0;
     height: 0;
     border-top: 43px solid transparent;
